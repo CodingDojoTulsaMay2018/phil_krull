@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using DapperTest.Models;
+@model User;
+
+@foreach(User user in ViewBag.Users)
+{
+    <h1>@user.Name</h1>
+}
+<form asp-action="AddUser" asp-controller="Home" method="post">
+    Name: <input type="text" name="name">
+    Email: <input type="email" name="email">
+    Password: <input type="password" name="password">
+    <input type="submit" value="Add">
+</form>

@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/bin/Debug/netcoreapp2.0/DapperTest.deps.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/bin/Debug/netcoreapp2.0/DapperTest.runtimeconfig.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/bin/Debug/netcoreapp2.0/DapperTest.runtimeconfig.dev.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/bin/Debug/netcoreapp2.0/DapperTest.dll
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/bin/Debug/netcoreapp2.0/DapperTest.pdb
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.csprojResolveAssemblyReference.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.AssemblyInfo.cs
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.dll
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/DapperTest/obj/Debug/netcoreapp2.0/DapperTest.pdb
