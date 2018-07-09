@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.csprojResolveAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.pdb

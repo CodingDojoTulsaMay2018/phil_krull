@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Rock Papper Scissors";
+}
+<div class="col-md-4">
+    <h1>Won: <span>@ViewBag.won</span></h1>
+    <h1>Lost: <span>@ViewBag.lost</span></h1>
+    <h1>Tied: <span>@ViewBag.tied</span></h1>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Process" asp-controller="Home" method="post" class="form-group">
+            <div class="form-check">
+                <input type="radio" id="radio1" name="choice" value="0" class="form-check-input">
+                <label for="radio1" class="form-check-label">Rock</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" id="radio2" name="choice" value="1" class="form-check-input">
+                <label for="radio2" class="form-check-label">Paper</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" id="radio3" name="choice" value="2" class="form-check-input">
+                <label for="radio3" class="form-check-label">Scissors</label>
+            </div>
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+    <h3>@ViewBag.result</h3>
+    <form asp-action="Reset" asp-controller="Home" method="post">
+        <button type="submit" class="btn btn-danger">Start Over</button>
+    </form>
+</div>
