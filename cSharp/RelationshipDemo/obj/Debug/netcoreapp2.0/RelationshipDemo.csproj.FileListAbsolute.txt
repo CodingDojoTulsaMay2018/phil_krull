@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/bin/Debug/netcoreapp2.0/RelationshipDemo.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/bin/Debug/netcoreapp2.0/RelationshipDemo.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/bin/Debug/netcoreapp2.0/RelationshipDemo.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/bin/Debug/netcoreapp2.0/RelationshipDemo.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/bin/Debug/netcoreapp2.0/RelationshipDemo.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.csprojResolveAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_may_2018/cSharp/RelationshipDemo/obj/Debug/netcoreapp2.0/RelationshipDemo.pdb

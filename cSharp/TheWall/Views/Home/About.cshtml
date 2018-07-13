@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+@using TheWall.Models
+@model MessagesAndPosts
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<!-- Need a Message and Post model -->
+
+<h1>Add Post</h1>
+<form asp-action="addPost" asp-controller="Home" method="post">
+    Post: <input type="text" asp-for="Posts.Content">
+    <button type="submit">Add</button>
+</form>
+
+<h1>Add Message</h1>
+<form asp-action="addMessage" asp-controller="Home" method="post">
+    Post: <input type="text" name="content" asp-for="Messages.Content">
+    <button type="submit">Add</button>
+</form>

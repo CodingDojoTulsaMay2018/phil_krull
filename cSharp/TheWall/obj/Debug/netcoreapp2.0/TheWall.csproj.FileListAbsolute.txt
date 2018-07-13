@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/bin/Debug/netcoreapp2.0/TheWall.deps.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.dev.json
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/bin/Debug/netcoreapp2.0/TheWall.dll
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/bin/Debug/netcoreapp2.0/TheWall.pdb
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.csprojResolveAssemblyReference.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfo.cs
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.dll
+/Users/pkrull/Documents/dojoGitLab/cSharp/c#v6_1_18/orm/Entity/TheWall/obj/Debug/netcoreapp2.0/TheWall.pdb

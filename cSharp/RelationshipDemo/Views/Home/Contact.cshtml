@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+@using RelationshipDemo.Models
+@model ViewModels
+<h1>Add Ninja</h1>
+<form asp-action="addNinja" asp-controller="Home" method="post">
+    Name:<input type="text" asp-for="Ninja.Name">
+    <button type="submit">Add</button>
+</form>
+<h1>Add Dojo</h1>
+<form asp-action="addDojo" asp-controller="Home" method="post">
+    Name:<input type="text" asp-for="Dojo.Name">
+    <button type="submit">Add</button>
+</form>
